@@ -49,6 +49,6 @@ form.addEventListener('submit', (event) => {
     printCollection(book);
     form.reset();
   } else {
-    alert('Enter valid values for title and author fields, please.');
+    // alert('Enter valid values for title and author fields, please.');
   }
 });

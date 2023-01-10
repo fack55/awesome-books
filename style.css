@@ -4,6 +4,32 @@
   box-sizing: border-box;
 }
 
+.container {
+  padding: 0 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+}
+
 #book-title {
   padding: 0 10px 0 0;
+}
+
+#books-list {
+  display: flex;
+  flex-direction: column;
+  margin-left: -6em;
+}
+
+tr {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+}
+
+button {
+  padding: 3px 10px;
+  margin-bottom: 1em;
 }

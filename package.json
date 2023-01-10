@@ -1,0 +1,31 @@
+{
+  "name": "awesome-books",
+  "version": "1.0.0",
+  "description": "This is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, I will learn how to manage data using JavaScript. That's why the website will be more interactive. I will also use a medium-fidelity wireframe to build the UI.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nedramrez/awesome-books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nedramrez/awesome-books/issues"
+  },
+  "homepage": "https://github.com/Nedramrez/awesome-books#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^7.1.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
